@@ -9,6 +9,10 @@
 import UIKit
 
 class LoginVC: UIViewController {
+    
+    var x:String = ""
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
